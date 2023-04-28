@@ -1,0 +1,15 @@
+/* universal selector */
+
+/* class selector */
+.text-right {
+text-align: right;
+}
+.text-center {
+    text-align: center;
+}
+
+/* element selector */
+li{
+    display: inline;
+
+}
